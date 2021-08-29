@@ -66,7 +66,5 @@ This is a testing example takes from by me. In this example you can see, how to 
 
 > https://pypi.org/
 
-
-
-                                                    !!! 🆃🅷🅰🅽🅺 🆈🅾🆄 !!!
+                                                  !!! 🆃🅷🅰🅽🅺 🆈🅾🆄 !!!
  
