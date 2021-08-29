@@ -1,5 +1,6 @@
 # About
-In this project content the details about how to create SMTP server(simple mail transfer protocol) using Python, HTML, CSS &amp; JS etc. I am doing this project using the concepts of SMTP(Simple Mail Transfer Protocol) using the SMTP_lib, emailmessage library and SSL.
+
+In this project, I have built how to create SMTP server using Python, HTML, CSS & JS etc. I have done this project on the concept of SMTP(Simple Mail Transfer Protocol), also I have used SMTP_lib, emailmessage library and SSL.
 
 # Presented By
 
