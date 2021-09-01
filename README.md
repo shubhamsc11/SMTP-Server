@@ -4,7 +4,7 @@ In this project, I have built how to create SMTP server using Python, HTML, CSS 
 
 # Presented By
 
-𝐌𝐑. 𝐒𝐡𝐮𝐛𝐡𝐚𝐦 𝐒𝐢𝐧𝐠𝐡 𝐂𝐡𝐨𝐮𝐡𝐚𝐧 (Computer Science Engineer)
+𝐄𝐫. 𝐒𝐡𝐮𝐛𝐡𝐚𝐦 𝐒𝐢𝐧𝐠𝐡 𝐂𝐡𝐨𝐮𝐡𝐚𝐧 (Computer Science Engineer)
 
 For More Details :- <a href="https://www.linkedin.com/in/shubham-singh-chouhan-05a68319a/">LinkedIn</a>
 
